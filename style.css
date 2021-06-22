@@ -8,7 +8,10 @@ body{
 }
 .navigation{
 	background:#FAA307;
-	padding:2px
+	padding:2px;
+	position:fixed;
+	top:0px;
+	width:100%;
 }
 	
 .intro{
