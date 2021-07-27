@@ -3,6 +3,10 @@ img{
 display:inline;
 }
 
+ul{
+display:inline;
+}
+
 body{
 	margin:0;
 	color:#343434;
