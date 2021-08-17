@@ -1,0 +1,12 @@
+<p> each paragraph</p>
+
+<b></b>
+<i></i>
+<strong></strong>
+<em></em>
+<mark></mark>
+<small></small>
+<cite>  By Aryan</cite>
+
+<pre> write a 4 line poem from your book<pre >
+
